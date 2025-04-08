@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-# Install required system packages for matplotlib and other scientific libs
+# Install required system packages for building C-based Python packages (like matplotlib)
 RUN apt-get update && apt-get install -y \
     build-essential \
     gcc \
@@ -16,15 +16,15 @@ RUN apt-get update && apt-get install -y \
 # Set work directory
 WORKDIR /app
 
-# Copy requirements file and install dependencies
+# Copy the requirements file into the container
 COPY requirements.txt .
 
 # Upgrade pip and install dependencies
 RUN pip install --upgrade pip setuptools wheel \
  && pip install -r requirements.txt
 
-# Copy rest of your project files
+# Copy the rest of your application
 COPY . .
 
-# Run your app (adjust as needed)
+# Default command to run your application
 CMD ["uvicorn", "API:app", "--host", "0.0.0.0", "--port", "5000"]
