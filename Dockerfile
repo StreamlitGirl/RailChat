@@ -1,25 +1,31 @@
-# Use Python 3.10 (which includes distutils)
-FROM python:3.10-slim
+FROM python:3.12-slim
 
-# Set environment variables
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
+# System dependencies for matplotlib & building packages
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libfreetype6-dev \
+    libpng-dev \
+    pkg-config \
+    python3-dev \
+    libglib2.0-0 \
+    libxext6 \
+    libxrender-dev \
+    libsm6 \
+    libx11-6 \
+    && rm -rf /var/lib/apt/lists/*
 
-# Set working directory
+# Create app directory
 WORKDIR /app
 
-# Install system dependencies and Python packages
+# Copy files
 COPY requirements.txt .
-RUN apt-get update && \
-    apt-get install -y gcc && \
-    pip install --upgrade pip setuptools wheel && \
-    pip install -r requirements.txt
 
-# Copy project files into container
+# Install Python dependencies
+RUN pip install --upgrade pip setuptools wheel \
+ && pip install -r requirements.txt
+
+# Copy the rest of the code
 COPY . .
 
-# Expose the app port
-EXPOSE 5000
-
-# Run your API app with Uvicorn
+# Command to run your app
 CMD ["uvicorn", "API:app", "--host", "0.0.0.0", "--port", "5000"]
