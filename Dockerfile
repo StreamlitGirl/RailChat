@@ -1,31 +1,30 @@
-FROM python:3.12-slim
+FROM python:3.11-slim
 
-# System dependencies for matplotlib & building packages
+# Install required system packages for matplotlib and other scientific libs
 RUN apt-get update && apt-get install -y \
     build-essential \
+    gcc \
     libfreetype6-dev \
     libpng-dev \
     pkg-config \
     python3-dev \
+    libx11-dev \
+    libgl1-mesa-glx \
     libglib2.0-0 \
-    libxext6 \
-    libxrender-dev \
-    libsm6 \
-    libx11-6 \
     && rm -rf /var/lib/apt/lists/*
 
-# Create app directory
+# Set work directory
 WORKDIR /app
 
-# Copy files
+# Copy requirements file and install dependencies
 COPY requirements.txt .
 
-# Install Python dependencies
+# Upgrade pip and install dependencies
 RUN pip install --upgrade pip setuptools wheel \
  && pip install -r requirements.txt
 
-# Copy the rest of the code
+# Copy rest of your project files
 COPY . .
 
-# Command to run your app
+# Run your app (adjust as needed)
 CMD ["uvicorn", "API:app", "--host", "0.0.0.0", "--port", "5000"]
