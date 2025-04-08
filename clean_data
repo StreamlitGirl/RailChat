@@ -1,0 +1,153 @@
+,id,question,reponse,category,language
+0,1,pourquoi je ne peux pas me connecter  mon compte,Vérifiez votre connexion Internet et assurez-vous que vos identifiants sont corrects.,Problème de connexion,fr
+1,2,que faire si jai oubli mon mot de passe,Utilisez la fonctionnalité 'Mot de passe oublié' pour réinitialiser votre mot de passe.,Problème de connexion,fr
+2,3,pourquoi mon compte estil bloqu,Votre compte peut être bloqué après plusieurs tentatives de connexion échouées. Contactez le support.,Problème de connexion,fr
+3,4,comment changer mon adresse email de connexion,Allez dans les paramètres du compte et mettez à jour votre adresse email.,Problème de connexion,fr
+4,5,pourquoi je ne reois pas le code de vrification,Vérifiez votre dossier spam ou attendez quelques minutes avant de réessayer.,Problème de connexion,fr
+5,6,que faire si lapplication ne reconnat pas mes identifiants,Assurez-vous que vous utilisez la bonne version de l'application et que vos identifiants sont corrects.,Problème de connexion,fr
+6,7,pourquoi lapplication se fermetelle lors de la connexion,Essayez de redémarrer l'application ou de réinstaller la dernière version.,Problème de connexion,fr
+7,8,comment mettre  jour mes informations de connexion,Accédez à votre profil utilisateur et mettez à jour vos informations.,Problème de connexion,fr
+8,9,pourquoi je ne peux pas accder  mon compte aprs une mise  jour,Essayez de vous déconnecter et de vous reconnecter ou contactez le support.,Problème de connexion,fr
+9,10,que faire si mon compte a t pirat,Changez immédiatement votre mot de passe et contactez le support.,Problème de connexion,fr
+10,11,pourquoi je ne reois pas lemail de rinitialisation de mot de passe,"Vérifiez votre dossier spam ou attendez quelques minutes. Si le problème persiste, contactez le support.",Problème de connexion,fr
+11,12,que faire si lapplication affiche compte introuvable,"Assurez-vous que vous utilisez le bon email ou nom d'utilisateur. Si nécessaire, créez un nouveau compte.",Problème de connexion,fr
+12,13,pourquoi lapplication me redirige vers une page blanche aprs la connexion,Cela peut être dû à un problème de cache. Essayez de vider le cache de l'application ou de la réinstaller.,Problème de connexion,fr
+13,14,comment vrifier si mon compte est actif,Contactez le support technique avec votre email ou nom d'utilisateur pour vérifier l'état de votre compte.,Problème de connexion,fr
+14,15,pourquoi lapplication me demandetelle de me reconnecter constamment,Cela peut être dû à un problème de session. Essayez de mettre à jour l'application ou de réinitialiser vos paramètres de connexion.,Problème de connexion,fr
+15,16,que faire si je ne reois pas de rponse du support technique,Vérifiez que vous avez contacté le support via le bon canal et réessayez. Vous pouvez aussi consulter la FAQ.,Problème de connexion,fr
+16,17,pourquoi lapplication ne reconnatelle pas mon nouveau mot de passe,"Assurez-vous que vous avez correctement enregistré le nouveau mot de passe. Si le problème persiste, réinitialisez-le à nouveau.",Problème de connexion,fr
+17,18,comment rsoudre un problme de connexion lente,Vérifiez votre connexion Internet et fermez les applications en arrière-plan pour libérer de la mémoire.,Problème de connexion,fr
+18,19,pourquoi lapplication affichetelle une erreur de serveur,Cela peut être dû à une maintenance ou à un problème temporaire. Réessayez plus tard.,Problème de connexion,fr
+19,20,que faire si je ne me souviens plus de mon nom dutilisateur,Utilisez la fonctionnalité 'Nom d'utilisateur oublié' ou contactez le support avec votre email associé.,Problème de connexion,fr
+20,21,pourquoi lapplication ne me permetelle pas de crer un nouveau compte,Vérifiez que vous remplissez tous les champs requis et que vous utilisez une adresse email valide.,Problème de connexion,fr
+21,22,comment savoir si mon compte a t suspendu,Contactez le support technique pour obtenir des informations sur l'état de votre compte.,Problème de connexion,fr
+22,23,pourquoi lapplication affichetelle connexion expire,Votre session a probablement expiré. Reconnectez-vous pour continuer.,Problème de connexion,fr
+23,24,que faire si je ne peux pas accder  mon email de rcupration,Contactez le support technique pour vérifier d'autres options de récupération de compte.,Problème de connexion,fr
+24,25,pourquoi lapplication ne fonctionnetelle pas aprs une mise  jour du systme dexploitation,"Assurez-vous que l'application est compatible avec votre version du système d'exploitation. Sinon, attendez une mise à jour de l'application.",Problème de connexion,fr
+43,20,que faire si je ne me souviens plus de mon nom dutilisateur, contactez le support avec votre email associé.,Problème de connexion,fr
+49,26,comment rsoudre un problme de connexion avec un rseau wifi public,Essayez de vous connecter à un autre réseau ou utilisez vos données mobiles.,Problème de connexion,fr
+50,27,pourquoi lapplication affichetelle identifiants incorrects mme sils sont corrects,Cela peut être dû à un problème de cache. Essayez de vider le cache de l'application ou de la réinstaller.,Problème de connexion,fr
+51,28,que faire si lapplication ne rpond pas aprs la saisie des identifiants,Redémarrez l'application ou réinstallez-la si le problème persiste.,Problème de connexion,fr
+52,29,pourquoi lapplication ne me permetelle pas de changer mon mot de passe,"Assurez-vous que vous respectez les exigences de complexité du mot de passe. Si le problème persiste, contactez le support.",Problème de connexion,fr
+53,30,comment vrifier si lapplication est en maintenance,Consultez les annonces officielles sur le site web ou les réseaux sociaux de l'application.,Problème de connexion,fr
+54,31,pourquoi lapplication affichetelle une erreur de rseau,"Vérifiez votre connexion Internet et réessayez. Si le problème persiste, contactez votre fournisseur d'accès.",Problème de connexion,fr
+55,32,que faire si je ne reois pas de notification de connexion,Vérifiez les paramètres de notification de l'application et assurez-vous qu'ils sont activés.,Problème de connexion,fr
+56,33,pourquoi lapplication ne reconnatelle pas mon adresse email,"Assurez-vous que vous avez saisi l'adresse email correcte. Si nécessaire, contactez le support.",Problème de connexion,fr
+57,34,comment rsoudre un problme de connexion avec un compte dsactiv,Contactez le support technique pour réactiver votre compte.,Problème de connexion,fr
+58,35,pourquoi lapplication affichetelle une erreur de session,Déconnectez-vous et reconnectez-vous pour réinitialiser la session.,Problème de connexion,fr
+59,36,que faire si je ne peux pas accder  mon compte aprs un changement de tlphone,Utilisez la fonctionnalité de récupération de compte pour réinitialiser vos informations de connexion.,Problème de connexion,fr
+60,37,pourquoi lapplication ne me permetelle pas de me connecter avec un compte existant,"Assurez-vous que vous utilisez les bonnes informations de connexion. Si le problème persiste, contactez le support.",Problème de connexion,fr
+61,38,comment rsoudre un problme de connexion avec un compte verrouill,Contactez le support technique pour déverrouiller votre compte.,Problème de connexion,fr
+62,39,pourquoi lapplication affichetelle une erreur de certificat,Cela peut être dû à un problème de sécurité. Assurez-vous que votre appareil est à jour.,Problème de connexion,fr
+63,40,que faire si je ne peux pas accder  mon compte aprs une rinitialisation,Contactez le support technique pour vérifier l'état de votre compte.,Problème de connexion,fr
+64,41,pourquoi lapplication ne reconnatelle pas mon numro de tlphone,"Assurez-vous que vous avez saisi le bon numéro de téléphone. Si nécessaire, contactez le support.",Problème de connexion,fr
+65,42,comment rsoudre un problme de connexion avec un compte suspendu,Contactez le support technique pour vérifier les raisons de la suspension.,Problème de connexion,fr
+66,43,pourquoi lapplication affichetelle une erreur de connexion scurise,"Assurez-vous que votre connexion Internet est sécurisée. Si le problème persiste, contactez votre fournisseur d'accès.",Problème de connexion,fr
+67,44,que faire si je ne peux pas accder  mon compte aprs une mise  jour de lapplication,Essayez de réinstaller l'application ou de contacter le support.,Problème de connexion,fr
+68,45,pourquoi lapplication ne me permetelle pas de me connecter avec un compte social,Assurez-vous que vous avez autorisé l'application à accéder à votre compte social.,Problème de connexion,fr
+69,46,comment rsoudre un problme de connexion avec un compte supprim,Contactez le support technique pour vérifier si votre compte peut être restauré.,Problème de connexion,fr
+70,47,pourquoi lapplication affichetelle une erreur de connexion temporaire,Cela peut être dû à une maintenance ou à un problème temporaire. Réessayez plus tard.,Problème de connexion,fr
+71,48,que faire si je ne peux pas accder  mon compte aprs un changement de mot de passe,"Assurez-vous que vous utilisez le nouveau mot de passe. Si nécessaire, réinitialisez-le à nouveau.",Problème de connexion,fr
+72,49,pourquoi lapplication ne reconnatelle pas mon adresse email de rcupration,"Assurez-vous que vous avez saisi l'adresse email correcte. Si nécessaire, contactez le support.",Problème de connexion,fr
+73,50,comment rsoudre un problme de connexion avec un compte inactif,Contactez le support technique pour réactiver votre compte.,Problème de connexion,fr
+100,77,how to fix a connection problem with a public wifi network,Try connecting to another network or use your mobile data.,Connection problem,en
+101,78,why cant i log in to my account,Check your internet connection and make sure your credentials are correct.,Sign in problem,en
+102,79,what should i do if i forgot my password,Use the 'Forgot Password' feature to reset your password.,Sign in problem,en
+103,80,why is my account locked,Your account may be locked after several failed login attempts. Contact support.,Sign in problem,en
+104,81,how do i change my login email address,Go to account settings and update your email address.,Sign in problem,en
+105,82,why am i not receiving the verification code,Check your spam folder or wait a few minutes before trying again.,Sign in problem,en
+106,83,what should i do if the app doesnt recognize my credentials,Make sure you're using the right version of the app and that your credentials are correct. correct.,Sign-in problem,en
+107,84,why does the app close when logging in,Try restarting the app or reinstalling the latest version.,Sign-in problem,en
+108,85,how do i update my login information,Go to your user profile and update your information.,Sign-in problem,en
+109,86,why cant i access my account after an update,Try logging out and logging back in or contact support.,Sign-in problem,en
+110,87,what should i do if my account has been hacked,Change your password immediately and contact support.,Sign-in problem,en
+111,88,why am i not receiving the password reset email,"Check your spam folder or wait a few minutes. If the problem persists, contact support.",Sign-in problem,en
+112,89,what to do if the app says account not found,"Make sure you are using the correct email or username. If necessary, create a new account.",Sign-in problem,en
+113,90,why does the app redirect me to a blank page after logging in,This may be due to a cache issue. Try clearing the app's cache or reinstalling it.,Sign-in problem,en
+114,91,how do i check if my account is active,Contact support with your email or username to check the status of your account.,Sign-in problem,en
+115,92,why does the app keep asking me to log in again,This may be due to a session issue. Try updating the app or resetting your login settings.,Login issue,en
+116,93,what should i do if i dont get a response from support,Make sure you contacted support through the correct channel and try again. You can also check the FAQ.,Login issue,en
+117,94,why doesnt the app recognize my new password,"Make sure you saved the new password correctly. If the problem persists, reset it again.",Login issue,en
+118,95,how do i fix a slow connection,Check your internet connection and close background apps to free up memory.,Login issue,en
+119,96,why does the app show a server error,This could be due to maintenance or a temporary issue. Try again later.,Sign in problem,en
+120,97,what should i do if i cant remember my username,Use the 'Forgotten Username' feature or contact support with your associated email.,Sign in problem,en
+121,98,why wont the app let me create a new account,Make sure you fill out all the required fields and are using a valid email address.,Sign in problem,en
+122,99,how do i know if my account has been suspended,Contact support for information on your account status.,Sign in problem,en
+123,100,why does the app say login timed out,Your session has probably expired. Please sign in again to continue.,Sign in problem,en
+124,101,what should i do if i cant access my recovery email,Contact support to check other account recovery options.,Sign in problem,en
+125,102,why isnt the app working after an os update,"Make sure the app is compatible with your OS version. If not, wait for an app update.",Sign in problem,en
+126,103,jai des problmes de peau  quel spcialiste doisje madresser,"Pour des problèmes de peau, consultez un dermatologue.",Dermatologie,Français
+127,104,qui consulter pour un traitement de lacn svre,Un dermatologue est le spécialiste à consulter pour un traitement de l'acné sévère.,Dermatologie,Français
+128,105,jai des douleurs articulaires qui doisje consulter,"Pour des douleurs articulaires, consultez un rhumatologue.",Rhumatologie,Français
+129,106,quel spcialiste consulter pour de larthrite,Un rhumatologue est le spécialiste à consulter pour de l'arthrite.,Rhumatologie,Français
+130,107,jai des problmes de vision  qui madresser,"Pour des problèmes de vision, consultez un ophtalmologue.",Ophtalmologie,Français
+131,108,qui consulter pour une chirurgie des yeux,Un ophtalmologue est le spécialiste à consulter pour une chirurgie des yeux.,Ophtalmologie,Français
+132,109,jai des problmes cardiaques qui doisje voir,"Pour des problèmes cardiaques, consultez un cardiologue.",Cardiologie,Français
+133,110,quel spcialiste consulter pour un suivi aprs une crise cardiaque,Un cardiologue est le spécialiste à consulter pour un suivi après une crise cardiaque.,Cardiologie,Français
+134,111,jai des troubles digestifs  qui madresser,"Pour des troubles digestifs, consultez un gastro-entérologue.",Gastro-entérologie,Français
+135,112,qui consulter pour des douleurs  lestomac persistantes,Un gastro-entérologue est le spécialiste à consulter pour des douleurs à l'estomac persistantes.,Gastro-entérologie,Français
+136,113,jai des problmes respiratoires qui consulter,"Pour des problèmes respiratoires, consultez un pneumologue.",Pneumologie,Français
+137,114,quel spcialiste consulter pour de lasthme,Un pneumologue est le spécialiste à consulter pour de l'asthme.,Pneumologie,Français
+138,115,jai des problmes hormonaux  qui madresser,"Pour des problèmes hormonaux, consultez un endocrinologue.",Endocrinologie,Français
+139,116,qui consulter pour un traitement du diabte,Un endocrinologue est le spécialiste à consulter pour un traitement du diabète.,Endocrinologie,Français
+140,117,jai des problmes de reins qui doisje voir,"Pour des problèmes de reins, consultez un néphrologue.",Néphrologie,Français
+141,118,quel spcialiste consulter pour une insuffisance rnale,Un néphrologue est le spécialiste à consulter pour une insuffisance rénale.,Néphrologie,Français
+142,119,jai des problmes de foie  qui madresser,"Pour des problèmes de foie, consultez un hépatologue.",Hépatologie,Français
+143,120,qui consulter pour une hpatite,Un hépatologue est le spécialiste à consulter pour une hépatite.,Hépatologie,Français
+144,121,jai des problmes neurologiques qui consulter,"Pour des problèmes neurologiques, consultez un neurologue.",Neurologie,Français
+145,122,quel spcialiste consulter pour des migraines frquentes,Un neurologue est le spécialiste à consulter pour des migraines fréquentes.,Neurologie,Français
+146,123,jai des problmes psychologiques  qui madresser,"Pour des problèmes psychologiques, consultez un psychiatre ou un psychologue.",Psychiatrie/Psychologie,Français
+147,124,qui consulter pour un traitement de la dpression,Un psychiatre est le spécialiste à consulter pour un traitement de la dépression.,Psychiatrie/Psychologie,Français
+148,125,jai des problmes gyncologiques qui doisje voir,"Pour des problèmes gynécologiques, consultez un gynécologue.",Gynécologie,Français
+149,126,quel spcialiste consulter pour un suivi de grossesse,Un gynécologue est le spécialiste à consulter pour un suivi de grossesse.,Gynécologie,Français
+150,127,jai des problmes urinaires  qui madresser,"Pour des problèmes urinaires, consultez un urologue.",Urologie,Français
+151,128,qui consulter pour des infections urinaires frquentes,Un urologue est le spécialiste à consulter pour des infections urinaires fréquentes.,Urologie,Français
+152,129,jai des problmes orl qui consulter,"Pour des problèmes ORL (oreilles, nez, gorge), consultez un ORL.",ORL,Français
+153,130,quel spcialiste consulter pour des otites  rptition,Un ORL est le spécialiste à consulter pour des otites à répétition.,ORL,Français
+154,131,jai des problmes dentaires  qui madresser,"Pour des problèmes dentaires, consultez un dentiste ou un stomatologue.",Dentisterie/Stomatologie,Français
+155,132,qui consulter pour une extraction dentaire,Un dentiste ou un stomatologue est le spécialiste à consulter pour une extraction dentaire.,Dentisterie/Stomatologie,Français
+156,133,jai besoin de rducation aprs une blessure qui consulter,"Pour une rééducation après une blessure, consultez un kinésithérapeute.",Kinésithérapie,Français
+157,134,quel spcialiste consulter pour des sances de rducation postopratoire,Un kinésithérapeute est le spécialiste à consulter pour des séances de rééducation post-opératoire.,Kinésithérapie,Français
+158,135,je veux amliorer mon alimentation  qui madresser,"Pour améliorer votre alimentation, consultez un nutritioniste ou un diététicien.",Nutrition,Français
+159,136,qui consulter pour un rgime adapt  mon tat de sant,Un nutritioniste ou un diététicien est le spécialiste à consulter pour un régime adapté à votre état de santé.,Nutrition,Français
+160,137,mon enfant a de la fivre qui doisje consulter,"Pour un enfant qui a de la fièvre, consultez un pédiatre.",Pédiatrie,Français
+161,138,quel spcialiste consulter pour le suivi de la croissance de mon enfant,Un pédiatre est le spécialiste à consulter pour le suivi de la croissance de votre enfant.,Pédiatrie,Français
+162,139,mon enfant a des troubles du comportement qui consulter,"Pour des troubles du comportement chez un enfant, consultez un pédopsychiatre.",Pédopsychiatrie,Français
+163,140,quel spcialiste consulter pour des problmes danxit chez un adolescent,Un pédopsychiatre est le spécialiste à consulter pour des problèmes d'anxiété chez un adolescent.,Pédopsychiatrie,Français
+164,141,i have skin problems which specialist should i see,"For skin problems, see a dermatologist.",Dermatology,En
+165,142,who should i see for severe acne treatment,A dermatologist is the specialist to see for severe acne treatment.,Dermatology,En
+166,143,i have joint pain who should i see,"For joint pain, see a rheumatologist.",Rheumatology,En
+167,144,which specialist should i see for arthritis,A rheumatologist is the specialist to see for arthritis.,Rheumatology,En
+168,145,i have vision problems who should i see,"For vision problems, see an ophthalmologist.",Ophthalmology,En
+169,146,who should i see for eye surgery,An ophthalmologist is the specialist to see for eye surgery. eyes.,Ophthalmology,En
+170,147,i have heart problems who should i see,"For heart problems, see a cardiologist.",Cardiology,En
+171,148,which specialist should i see for followup after a heart attack,A cardiologist is the specialist to see for follow-up after a heart attack.,Cardiology,En
+172,149,i have digestive problems who should i see,"For digestive problems, see a gastroenterologist.",Gastroenterology,En
+173,150,who should i see for persistent stomach pain,A gastroenterologist is the specialist to see for persistent stomach pain.,Gastroenterology,En
+174,151,i have breathing problems who should i see,"For breathing problems, see a pulmonologist.",Pulmonology,En
+175,152,which specialist should i see for asthma,A pulmonologist is the specialist to see for asthma.,Pneumology,En
+176,153,i have hormonal problems who should i see,"For hormonal problems, see an endocrinologist.",Endocrinology,En
+177,154,who should i see for diabetes treatment,An endocrinologist is the specialist to see for diabetes treatment.,Endocrinology,En
+178,155,i have kidney problems who should i see,"For kidney problems, see a nephrologist.",Nephrology,En
+179,156,which specialist should i see for kidney failure,A nephrologist is the specialist to see for kidney failure.,Nephrology,En
+180,157,i have liver problems who should i contact,"For liver problems, consult a hepatologist.",Hepatology,En
+181,158,who should i consult for hepatitis,A hepatologist is the specialist to consult for hepatitis.,Hepatology,En
+182,159,i have neurological problems who should i consult,"For neurological problems, consult a neurologist.",Neurology,En
+183,160,which specialist should i consult for frequent migraines,A neurologist is the specialist to consult for frequent migraines.,Neurology,En
+184,161,i have psychological problems who should i contact,"For psychological problems, consult a psychiatrist or psychologist.",Psychiatry/Psychology,En
+186,163,i have gynecological who should i see,"For gynecological problems, consult a gynecologist.",Gynecology,En
+187,164,which specialist should i consult for pregnancy monitoring,A gynecologist is the specialist to consult for pregnancy monitoring.,Gynecology,En
+188,165,i have urinary problems who should i contact,"For urinary problems, consult a urologist.",Urology,En
+189,166,who should i consult for frequent urinary tract infections,A urologist is the specialist to consult for frequent urinary tract infections.,Urology,En
+190,167,i have ent problems who should i consult,"For ENT problems (ears, nose, throat), consult an ENT.",ENT,En
+191,168,which specialist should i consult for repeated ear infections,An ENT is the specialist to consult for repeated ear infections.,ENT,En
+192,169,i have dental problems who should i contact,"For dental problems, consult a dentist or a stomatologist.",Dentistry/Stomatology,En
+193,170,who should i consult for a tooth extraction,A dentist or a stomatologist is the specialist to consult for a tooth extraction.,Dentistry/Stomatology,En
+194,171,i need rehabilitation after an injury who should i consult,"For rehabilitation after an injury, consult a physiotherapist.",Physiotherapy,En
+195,172,which specialist should i consult for postoperative rehabilitation sessions,A physiotherapist is the specialist to consult for post-operative rehabilitation sessions.,Physiotherapy,En
+196,173,i want to improve my diet who should i contact,"To improve your diet, consult a nutritionist or dietician.",Nutrition,En
+197,174,who should i consult for a diet adapted to my state of health,A nutritionist or dietician is the specialist to consult for a diet adapted to your state of health.,Nutrition,En
+198,175,my child has a fever who should i consult,"For a child who has a fever, consult a pediatrician.",Pediatrics,En
+199,176,which specialist should i consult to monitor my childs growth,A pediatrician is the specialist to consult to monitor your child's growth.,Pediatrics,En
+200,177,my child has behavioral problems who should i consult,"For behavioral problems in a child, consult a child psychiatrist.",Child psychiatry,En
+201,178,which specialist should i consult for anxiety problems in an adolescent,A child psychiatrist is the specialist to consult for anxiety problems in an adolescent.,Child psychiatry,En
